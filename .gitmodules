@@ -17,3 +17,8 @@
 	path = OCA/l10n-france
 	url = git@github.com:OCA/l10n-france.git
 	branch = 14.0
+
+[submodule "OCA/manufacture"]
+	path = OCA/manufacture
+	url = git@github.com:OCA/manufacture.git
+	branch = 14.0
